@@ -1,0 +1,12 @@
+name: FluDataFinal
+title: FluDataFinal
+username:
+account: bnguyen12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 295639
+bundleId: 1258637
+url: https://bnguyen12.shinyapps.io/FluDataFinal/
+when: 1520494236.22771
+asMultiple: FALSE
+asStatic: FALSE
